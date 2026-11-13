@@ -28,7 +28,7 @@ The fused feature map has shape **`[1, 64, 80, 80]`**, covering a **40 m × 40 m
 ├── losses/         # Detection loss
 ├── tools/          # Training, evaluation, and visualization scripts
 ├── demo_test/      # Individual component tests and visualizations
-└── assets/         # Images used in this README
+└── outputs/         # Images used in this README
 ```
 
 ## Requirements
