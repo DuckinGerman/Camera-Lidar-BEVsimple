@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Datasets
+data/
+datasets/nuscenes/
+*.pcd
+*.bin
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+outputs/
+runs/
+logs/
+
+# IDE
+.vscode/
+.idea/
