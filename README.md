@@ -16,7 +16,7 @@ The fused feature map has shape **`[1, 64, 80, 80]`**, covering a **40 m × 40 m
 
 ## BEV Visualization
 
-![LiDAR BEV with ground-truth 3D bounding boxes](assets/bev_boxes.png)
+![LiDAR BEV with ground-truth 3D bounding boxes](outputs/bev_boxes.png)
 
 *LiDAR points in BEV with nuScenes ground-truth 3D bounding boxes (not model predictions).*
 
